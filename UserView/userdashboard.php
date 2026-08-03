@@ -152,7 +152,7 @@ $stmt->close();
                 <div class="row g-4">
                     <div class="col-md-4 text-center">
                         <a href="devicelist.php" class="action-card">
-                            <h5><i class="fa-solid fa-list me-2"></i>Browse devices</h5>
+                            <h5><i class="fa-solid fa-list me-2"></i>Browse Devices</h5>
                             <p>Explore available devices and equipment.</p>
                         </a>
                     </div>
@@ -177,7 +177,7 @@ $stmt->close();
             <div class="dashboard-section">
 
                 <div class="section-header mb-4">
-                    <h3><i class="fa-solid fa-list-ol me-2"></i>Recently Added devices</h3>
+                    <h3><i class="fa-solid fa-list-ol me-2"></i>Recently Added Devices</h3>
                 </div>
 
                 <div class="row g-4">
