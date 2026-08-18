@@ -57,28 +57,54 @@ Full system design — UML Sequence, Use Case, Activity, and Flowchart diagrams,
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started (How to Run the Website)
 
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/TechBridge.git
+**1. Download and Extract the Project**
 
-# Import the database schema
-mysql -u root -p techbridge < database/techbridge.sql
+Download the project as a ZIP file and extract the TechBridge folder into: C:\xampp\htdocs\
 
-# Configure your database connection
-# edit config/config.php with your credentials
+The final directory should be: C:\xampp\htdocs\TechBridge
 
-# Serve locally (e.g. via XAMPP/WAMP)
-# place project in htdocs and visit:
-http://localhost/TechBridge/loginaccount.php
-```
+**2. Launch XAMPP**
+
+Open the XAMPP Control Panel and start:
+
+Apache
+MySQL
+
+Make sure both services are running. (Url: https://www.apachefriends.org/download.html)
+
+**3. Set Up the Database**
+
+Open phpMyAdmin by visiting: http://localhost/phpmyadmin
+
+Create the required database, name the database as "techbridge", then import the provided "techbridge.sql" file to create the database entities and records.
+
+**4. Launch the Application**
+
+Open your web browser and visit: http://localhost/TechBridge/
+
+**5. Create an Account or Log In**
+
+New users can create an account by selecting the Register / Create Account option.
+
+Existing users can log in using their registered account credentials.
+
+**Requirements:**
+XAMPP
+Web browser
+Apache
+MySQL
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add 2–3 of your best UI screenshots here — Login, Renter Dashboard, and Admin Dashboard make the strongest first impression.)*
+<img width="1920" height="1020" alt="Screenshot 2026-08-03 195832" src="https://github.com/user-attachments/assets/9cfe3ec6-8ce3-4a0d-924c-238d886ef1ed" />
+
+<img width="1303" height="712" alt="Screenshot 2026-08-03 200255" src="https://github.com/user-attachments/assets/4e20258b-0adb-40a2-b70f-13308fe7b77a" />
+
+<img width="826" height="791" alt="Screenshot 2026-08-03 200006" src="https://github.com/user-attachments/assets/f8e079d4-0715-4733-8df0-d5605018e7fe" />
 
 ---
 
