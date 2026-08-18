@@ -81,7 +81,7 @@ Make sure both services are running as shown below. (Url to download Xampp Contr
 
 Open phpMyAdmin by visiting: http://localhost/phpmyadmin
 
-Create the required database, name the database as "techbridge", then import the provided "techbridge.sql" file to create the database entities and records.
+Create the required database, name the database as "**techbridge**", then import the provided "**techbridge.sql**" file within the repository to create the database entities and records.
 
 **4. Launch the Application**
 
