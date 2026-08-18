@@ -103,10 +103,15 @@ MySQL
 
 ## 📸 Screenshots
 
+Snapshot of Device List Page (User's View)
 <img width="1920" height="1020" alt="Screenshot 2026-08-03 195832" src="https://github.com/user-attachments/assets/9cfe3ec6-8ce3-4a0d-924c-238d886ef1ed" />
 
+
+Snapshot of Checkout Page (User's View)
 <img width="1303" height="712" alt="Screenshot 2026-08-03 200255" src="https://github.com/user-attachments/assets/4e20258b-0adb-40a2-b70f-13308fe7b77a" />
 
+
+Snapshot of View Device Details Page (User's View)
 <img width="826" height="791" alt="Screenshot 2026-08-03 200006" src="https://github.com/user-attachments/assets/f8e079d4-0715-4733-8df0-d5605018e7fe" />
 
 ---
