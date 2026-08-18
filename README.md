@@ -72,7 +72,10 @@ Open the XAMPP Control Panel and start:
 Apache
 MySQL
 
-Make sure both services are running. (Url: https://www.apachefriends.org/download.html)
+Make sure both services are running as shown below. (Url to download Xampp Control Panel: https://www.apachefriends.org/download.html)
+
+<img width="457" height="162" alt="image" src="https://github.com/user-attachments/assets/30b6a2e8-fe09-467a-8e9a-3360c27fa836" />
+
 
 **3. Set Up the Database**
 
